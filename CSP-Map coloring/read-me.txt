@@ -1,0 +1,17 @@
+read-me
+
+Description:
+
+The project represents how to solve a Constraint Satisfaction Problem like map colouring using various  algorithms like backtracking, forward checking, forward checking with singleton. 
+
+Two python files are presented. One of them prints the results of performing DFS with backtracking, forward checking and forward checking with singleton without the use of heuristic while the other uses the heuristics like Degree Constraint, Least Constraining Values and Minimum remaining values solving the problem.
+
+Note : For the file with visualization (for USA) map, the beginning lines of code mentioned in comments specify the instructions to run the code. Execute the lines of code on cmd to install the libraries required for visualization.
+
+Instructions to run the code: 
+
+1. On cmd, navigate the folder in which the python code is present.
+2. On prompted, select the map to be colored.
+
+Output:
+.The program outputs the total number of backtracks, list of colors assigned to each state and the time taken by each algorithm in computing the results.
